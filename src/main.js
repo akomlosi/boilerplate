@@ -1,6 +1,6 @@
-/**
- * App entry point
- */
-import Application from "./Application";
-
-new Application();
+///**
+// * App entry point
+// */
+//import Application from "./Application";
+//
+//new Application();
